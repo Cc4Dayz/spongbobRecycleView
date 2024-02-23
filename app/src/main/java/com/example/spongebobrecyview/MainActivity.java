@@ -21,8 +21,9 @@ import org.w3c.dom.Text;
 import java.util.ArrayList;
 import java.util.List;
 
-//Student Name: Ofek Atun
-//Student ID:   316063015
+//  Student Name: 	Ofek Atun
+//  Student ID: 	316063015
+//  GitHub Link: 	https://github.com/Cc4Dayz/spongbobRecycleView
 
 public class MainActivity extends AppCompatActivity implements RecyclerViewInterface{
 
