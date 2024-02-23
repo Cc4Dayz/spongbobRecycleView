@@ -23,6 +23,7 @@ import java.util.List;
 
 //  Student Name: 	Ofek Atun
 //  Student ID: 	316063015
+//  Student Phone:	054-4468042
 //  GitHub Link: 	https://github.com/Cc4Dayz/spongbobRecycleView
 public class MainActivity extends AppCompatActivity implements RecyclerViewInterface{
 
