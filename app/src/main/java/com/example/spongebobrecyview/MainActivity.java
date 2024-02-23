@@ -24,7 +24,6 @@ import java.util.List;
 //  Student Name: 	Ofek Atun
 //  Student ID: 	316063015
 //  GitHub Link: 	https://github.com/Cc4Dayz/spongbobRecycleView
-
 public class MainActivity extends AppCompatActivity implements RecyclerViewInterface{
 
     ArrayList<CharactersModel> charactersModels = new ArrayList<>();
