@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="spongebob_yellow">#FEE12B</color> <!-- SpongeBob Yellow -->
+    <color name="ocean_blue">#00AEDF</color> <!-- Ocean Blue -->
+    <color name="ocean_blue_light">#806CC4DD</color> <!-- Ocean Blue Light-->
+    <color name="sandy_brown">#F4A460</color> <!-- Sandy Brown -->
+    <color name="sandy_brown_light">#94F1DECE</color> <!-- Sandy Brown Light -->
+    <color name="coral_pink">#FF6F61</color> <!-- Coral Pink -->
+    <color name="seaweed_green">#2E8B57</color> <!-- Seaweed Green -->
+    <color name="lifeguard_red">#FF5349</color> <!-- Lifeguard Red -->
+    <color name="jellyfish_purple">#9370DB</color> <!-- Jellyfish Purple -->
+    <color name="jellyfish_purple_light">#CABFE1</color> <!-- Jellyfish Purple Light -->
+    <color name="clear">#00FFFFFF</color> <!-- Clear -->
+</resources>

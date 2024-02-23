@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">SpongebobRecyView</string>
+    <string name="search_text">Search text...</string>
+    <string-array name="Names_txt">
+        <item>SpongeBob SquarePants:</item>
+        <item>Patrick Star:</item>
+        <item>Yujin Krabs:</item>
+        <item>Squidward Tentacles:</item>
+        <item>Sheldon J.Plankton:</item>
+        <item>Sandy Cheeks:</item>
+        <item>Gary the Snail:</item>
+        <item>Mrs. Penelope Puff:</item>
+        <item>Mermaid Man:</item>
+        <item>Barnacle Boy:</item>
+        <item>Karen Plankton:</item>
+        <item>Pearl Krabs:</item>
+        <item>Flying Dutchman:</item>
+        <item>Man Ray:</item>
+        <item>The Dirty Bubble:</item>
+        <item>Larry the Lobster:</item>
+        <item>Harold SquarePants:</item>
+        <item>Margaret SquarePants:</item>
+        <item>SpongeBobs Grandma:</item>
+        <item>Bubble Buddy:</item>
+        <item>King Neptune:</item>
+        <item>Bubble Bass:</item>
+    </string-array>
+
+    <string-array name="ShortDetails_txt">
+        <item>Main character, loyal and energetic fry cook at the Krusty Krab.</item>
+        <item>Main character, lovable but dim-witted best friend of SpongeBob.</item>
+        <item>Main character, money-loving and cheap owner of the Krusty Krab.</item>
+        <item>Main character, grumpy cashier with artistic aspirations.</item>
+        <item>Main character, tiny villain obsessed with stealing Krabby Patty formula.</item>
+        <item>Side character, adventurous and intelligent squirrel scientist.</item>
+        <item>Side character, SpongeBobs loyal pet snail with a calm demeanor.</item>
+        <item>Side character, frustrated boating school teacher with a nervous disposition.</item>
+        <item>Side character, elderly retired superhero idolized by SpongeBob, with a forgetful nature.</item>
+        <item>Side character, Mermaid Mans grumpy sidekick and former hero partner.</item>
+        <item>Side character, Planktons sentient computer wife who assists him in his schemes.</item>
+        <item>Side character, Mr. Krabs teenage whale daughter who loves shopping and parties.</item>
+        <item>Side character, a ghost pirate who haunts the seas and is feared by all who sail the ocean.</item>
+        <item>Side character, a humanoid evil genius and archenemy of Mermaid Man and Barnacle Boy.</item>
+        <item>Side character, a evil supervillain made entirely of hardened bubble soap.</item>
+        <item>Side character, loyal and athletic lobster who works at the gym.</item>
+        <item>Side character, SpongeBobs father who works as a fry cook at the Krusty Krab.</item>
+        <item>Side character, SpongeBobs mother who is a housewife.</item>
+        <item>Side character, SpongeBobs grandma who is known for her warmth and wisdom.</item>
+        <item>Side character, an inflatable buddy created by SpongeBob who becomes his best friend.</item>
+        <item>Side character, the ruler of the sea who is portrayed as a muscular and powerful figure.</item>
+        <item>Side character, a hefty and picky customer, known for his obsession with Krabby Patties.</item>
+    </string-array>
+
+    <string-array name="LongDetails_txt">
+        <item>SpongeBob is the main protagonist of the show. Hes an optimistic and perpetually cheerful sea sponge who lives in a pineapple under the sea in the town of Bikini Bottom. SpongeBob works as a fry cook at the Krusty Krab, a fast-food restaurant owned by Mr. Krabs. He is known for his childlike innocence, boundless enthusiasm, and unwavering dedication to his job and friends. SpongeBob is always eager to help others and often finds himself in humorous and adventurous situations, much to the amusement of his friends and viewers.</item>
+        <item>Patrick is SpongeBobs best friend and neighbor who lives under a rock in Bikini Bottom. He is a lovable but dim-witted pink starfish with a laid-back personality. Patrick is known for his simple-mindedness, love of napping, and enjoyment of various leisure activities. Despite his lack of intelligence, Patrick has a good heart and is fiercely loyal to SpongeBob. He often joins SpongeBob in his adventures, although his lack of common sense sometimes leads to comedic mishaps.</item>
+        <item>Mr. Krabs, commonly known as Eugene H. Krabs, is the money-loving owner of the Krusty Krab restaurant. He is a main character in the show and is obsessed with making money at any cost. Mr. Krabs is notorious for his extreme cheapness and greediness, often prioritizing profits over the well-being of others. Despite his flaws, he cares deeply about his daughter Pearl and has a soft spot for SpongeBob, whom he values as a hardworking employee.</item>
+        <item>Squidward is SpongeBobs grumpy and cynical neighbor who lives in an Easter Island head-shaped house between SpongeBob and Patricks homes. He is an octopus with artistic aspirations but works begrudgingly as a cashier at the Krusty Krab to make ends meet. Squidward is often annoyed by SpongeBob and Patricks antics and longs for a more sophisticated and peaceful life. Despite his outwardly sour demeanor, Squidward has moments of vulnerability and occasionally shows hidden talents and passions.</item>
+        <item>Plankton, or Sheldon J. Plankton, is the main antagonist of the show and the owner of the rival fast-food restaurant, the Chum Bucket. He is a small and cunning green copepod with a perpetual desire to steal the Krabby Patty secret formula and put the Krusty Krab out of business. Plankton is a master schemer and inventor who constantly devises elaborate plans to achieve his goal, often using his sentient computer wife Karen to assist him. Despite his villainous nature, Plankton is portrayed as a comedic character with a deep-seated inferiority complex and a knack for failure.</item>
+        <item>Sandy is a thrill-seeking squirrel from Texas who lives in an air dome underwater in Bikini Bottom. She is a side character in the show and is known for her adventurous spirit, intelligence, and love of extreme sports. Sandy is a scientist and inventor who enjoys experimenting with various gadgets and technologies. She is one of SpongeBobs closest friends and often joins him in his adventures, bringing her unique skills and expertise to the group.</item>
+        <item>Gary is SpongeBobs pet sea snail who meows like a cat. He is a side character in the show and is known for his calm and sophisticated demeanor, which often contrasts with SpongeBobs hyperactive personality. Gary is intelligent and well-mannered, and he serves as a loyal companion to SpongeBob. Despite being a pet, Gary exhibits human-like qualities and is capable of complex thoughts and emotions, making him a beloved character among fans.</item>
+        <item>Mrs. Puff is the boating school teacher in Bikini Bottom who is responsible for teaching students how to drive boats. She is a side character in the show and is known for her nervous disposition and tendency to inflate like a pufferfish when stressed or frightened. Mrs. Puff is often driven to frustration by SpongeBobs inability to pass his boating exams, leading to comedic and chaotic driving lessons. Despite her challenges as a teacher, she genuinely cares about her students well-being and safety.</item>
+        <item>Mermaid Man is a retired superhero and a side character in the show. Along with his sidekick Barnacle Boy, he is idolized by SpongeBob and Patrick as one of their favorite childhood superheroes. Mermaid Man is portrayed as an elderly and forgetful superhero who struggles to remember his past exploits and catchphrases. Despite his diminished mental faculties, Mermaid Man occasionally springs into action to fight crime alongside Barnacle Boy, much to the amusement of SpongeBob and Patrick.</item>
+        <item>Barnacle Boy is the sidekick of Mermaid Man and a former superhero partner. He is a side character in the show and is often portrayed as grumpy and fed up with Mermaid Mans antics and forgetfulness. Despite his advanced age, Barnacle Boy possesses a dry wit and a sense of responsibility that occasionally leads him to begrudgingly assist Mermaid Man in his superhero adventures. Barnacle Boy is respected by SpongeBob and Patrick as a seasoned superhero with a wealth of experience and knowledge.</item>
+        <item>Planktons Computer Wife, also known as Karen, is a sentient computer who assists Plankton in his schemes to steal the Krabby Patty formula. She is a side character in the show and is portrayed as intelligent and sarcastic, often mocking Planktons failures and offering him advice. Karen is loyal to Plankton despite his constant failures and is willing to help him achieve his goals, albeit with a sardonic attitude.</item>
+        <item>Pearl Krabs is Mr. Krabs teenage whale daughter who loves shopping and parties. She is a side character in the show and is depicted as a stereotypical teenage girl with a bubbly personality and a love for fashion. Pearl often clashes with her father over her extravagant spending habits, but deep down, she cares about him and appreciates the opportunities he provides for her.</item>
+        <item>The Flying Dutchman is a ghost pirate who haunts the seas and is feared by all who sail the ocean. He is a side character in the show and is portrayed as a menacing and otherworldly figure with the power to control the souls of the dead. The Flying Dutchman enjoys scaring mortals and collecting souls, but he also has a softer side and occasionally shows compassion towards SpongeBob and other characters.</item>
+        <item>Man Ray is a humanoid evil genius and archenemy of Mermaid Man and Barnacle Boy. He is a side character in the show and is depicted as a villainous mastermind with a cunning intellect and a penchant for chaos. Man Ray is known for his various schemes to wreak havoc on Bikini Bottom and defeat his superhero foes. Despite his villainous nature, Man Ray occasionally shows moments of vulnerability and has a complex relationship with his adversaries.</item>
+        <item>The Dirty Bubble is a villainous supervillain made entirely of hardened bubble soap. He is a side character in the show and is depicted as a recurring antagonist who teams up with other villains to cause trouble in Bikini Bottom. The Dirty Bubble has the ability to trap his enemies in bubbles and is known for his slippery personality and mischievous demeanor. Despite his villainous nature, he is often portrayed as a comedic character who provides comic relief in the series.</item>
+        <item>Larry the Lobster is a loyal and athletic lobster who works at the gym and various other jobs in Bikini Bottom. He is a side character in the show and is depicted as a muscular and friendly lobster with a deep voice and a love for exercise. Larry is known for his dedication to fitness and his competitive nature, often participating in weightlifting competitions and athletic events. Despite his tough exterior, Larry is a kind-hearted character who values friendship and loyalty.</item>
+        <item>Harold SquarePants is SpongeBobs father who works as a fry cook at the Krusty Krab. He is a side character in the show and is depicted as a kind and supportive father who shares SpongeBobs love for cooking. Harold is proud of his sons accomplishments and often encourages him to pursue his dreams, despite the occasional mishaps that occur at the restaurant.</item>
+        <item>Margaret SquarePants is SpongeBobs mother who is a housewife. She is a side character in the show and is depicted as a caring and nurturing mother who loves her son unconditionally. Margaret supports SpongeBob in his endeavors and is always there to offer words of wisdom and encouragement. She takes pride in SpongeBobs achievements and cherishes their time together as a family.</item>
+        <item>Grandma SquarePants is SpongeBobs grandma who is known for her warmth and wisdom. She is a side character in the show and is depicted as a kind and loving grandmother who dotes on SpongeBob and his friends. Grandma SquarePants enjoys spending time with her grandson and often shares stories and life lessons with him. She is a source of comfort and support for SpongeBob during challenging times and is cherished by everyone in Bikini Bottom.</item>
+        <item>Bubble Buddy is an inflatable buddy created by SpongeBob who becomes his best friend. He is a side character in the show and is depicted as a sentient bubble with a cheerful personality and a knack for adventure. Bubble Buddy accompanies SpongeBob on various escapades and brings joy to everyone he meets. Despite his unconventional form, Bubble Buddy is a loyal friend who is always there to lift SpongeBobs spirits and spread happiness wherever he goes.</item>
+        <item>King Neptune is the ruler of the sea who is portrayed as a muscular and powerful figure. He is a side character in the show and is depicted as a regal and imposing god-like being with the ability to control the ocean and its inhabitants. King Neptune is known for his hot temper and his tendency to punish those who disobey his commands. Despite his intimidating demeanor, he has a softer side and occasionally shows compassion towards others.</item>
+        <item>Bubble Bass is a hefty and picky customer at the Krusty Krab known for his obsession with Krabby Patties. He is a side character in the show and is depicted as a gluttonous and arrogant character who prides himself on his knowledge of fast food. Bubble Bass is notorious for his demanding nature and his habit of nitpicking the quality of the food he consumes. Despite his flaws, he is a regular patron of the Krusty Krab and is often seen causing trouble for SpongeBob and his friends.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:clipToPadding="false"
+        android:clipChildren="false"
+        android:elevation="6dp"
+        android:background="@android:color/transparent"
+        app:cardCornerRadius="30dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:background="@color/ocean_blue"
+            android:elevation="4dp">
+
+            <ImageView
+                android:id="@+id/rvImage"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_alignParentStart="true"
+                android:layout_centerInParent="true"
+                android:layout_marginEnd="16dp"
+                android:src="@mipmap/ic_launcher" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_toEndOf="@id/rvImage"
+                android:background="@color/jellyfish_purple"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/rvName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="SpongeBob SquarePants"
+                    android:textSize="16sp"
+                    android:textColor="@color/sandy_brown"
+                    android:layout_alignParentTop="true"/>
+
+                <TextView
+                    android:id="@+id/rvDetails"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="14sp"
+                    android:text="Hellodsadsadsasdasdsadsadsdaasdasdasdasdasdasddasadsasdadsasdadsdasasdasdasdadsadsasddas"
+                    android:textColor="@color/sandy_brown"
+                    android:layout_below="@id/rvName"/>
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>
